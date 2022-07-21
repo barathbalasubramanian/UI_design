@@ -210,9 +210,8 @@ body{
 }
 @media only screen and (max-width:830px) {
     body{
-        background-color: #202020;
         position : relative;
-        top:45px
+        top:70px
     }
     .heading #title {
         font-size: 2rem;
@@ -251,6 +250,10 @@ body{
 }
     }
 @media only screen and (max-width:600px) {
+    body{
+        position : relative;
+        top:70px
+    }
     .firstdiv {
         margin: 24px;
         display: flex;
@@ -273,6 +276,11 @@ body{
     }
     }
 @media only screen and (max-width:500px) {
+    body{
+        background-color: #202020;
+        position : relative;
+        top:70px
+    }
     .firstdiv {
         margin: 115px;
         margin-top: 17%;
