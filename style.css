@@ -279,10 +279,10 @@ body{
     body{
         background-color: #202020;
         position : relative;
-        top:70px
+        top:100px
     }
     .firstdiv {
-        margin: 115px;
+        margin: 7px;
         margin-top: 17%;
         margin-bottom: 0%;
         width : 250px;
@@ -292,7 +292,7 @@ body{
 
     }
     .seconddiv {
-        margin: 115px;
+        margin: 7px;
         margin-top: 0%;
         width : 250px;
         display: flex;
